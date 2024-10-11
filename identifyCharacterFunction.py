@@ -1,0 +1,1 @@
+# This file is used to store the functions that will be used in the identifications of the processed images. 
